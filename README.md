@@ -34,5 +34,10 @@ Selanjutnya, dari keseluruhan tinjauan penelitian terdahulu tersebut, lakukan si
 ## Tahap 5: Gabungkan antara narasi dengan tabel review
 
 Berdasarkan seluruh tinjauan terhadap penelitian-penelitian terdahulu yang telah disajikan, lakukan sintesis untuk merumuskan dan menjelaskan state of the art, research gap, novelty, serta orisinalitas penelitian, sekaligus menunjukkan keterkaitannya dengan penelitian yang sedang saya lakukan. Uraian tersebut harus disusun dalam bahasa Indonesia dengan panjang minimal 3000 kata. Penulisan harus berbentuk paragraf, di mana setiap paragraf terdiri atas minimal delapan kalimat. Dalam penyusunannya, gunakan seluruh sitasi dan referensi yang telah saya berikan sebelumnya, tanpa menambahkan sitasi maupun referensi baru di luar yang sudah tersedia.
+
+## Mapping dengan Markdown
+Ubah uraian tersebut menjadi bagan poin-poin kerangka berpikir yang mencakup state of the art, research gap, novelty, orisinalitas, serta keterkaitannya dengan penelitian yang saya lakukan. Penyajian harus ditulis dalam format kode Markdown yang ringkas, jelas, dan sederhana, sehingga mudah dipahami dan dapat menggambarkan alur pemikiran penelitian secara sistematis.
+
+[Link mapping](https://markmap.js.org/)
   
 </details>
