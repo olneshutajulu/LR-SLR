@@ -8,7 +8,11 @@ Repositori ini akan membahas bagaimana promt yang baik untuk melakukan LR/SLR de
 "Dari file PDF artikel jurnal yang diberikan, bacalah dengan teliti dan pahami seluruh isinya. Setelah itu, konfirmasikan bahwa Anda telah membaca dan memahaminya sepenuhnya."
 
 ## Tahap 2
-Dari file PDF artikel jurnal yang sama, susunlah sebuah review artikel yang mencakup: judul penelitian, lokasi penelitian, nama penulis, tahun terbit, insight utama, teori yang digunakan, metode penelitian, hasil penelitian, keterbatasan penelitian, serta korelasi dengan penelitian yang akan dilakukan.
+Dari file PDF artikel jurnal yang sama, susunlah sebuah review artikel yang mencakup: judul penelitian, lokasi penelitian, nama penulis, tahun terbit, insight utama, Fault yang disoroti, General concern, spesific concern, Solusi yang diusulkan, Kenapa topik ini penting, GAP yang disampaikan, steps, Set up Eksperimen yang dilakukan, teori yang digunakan, metode penelitian, hasil penelitian, keterbatasan penelitian, serta korelasi dengan penelitian yang akan dilakukan. 
+
+Susun hasil review dari keseluruhan file dalam bentuk tabel yang tersusun ke samping yang bisa di copy ke excel. 
+
+Sebagai informasi, Topik Penelitian saya yaitu: Fault Detection, Classification, and Fault-Tolerant Control Strategy for Dual Active Bridge Converter in Renewable Energy Microgrids.
 
 ## Tahap 3
 Berdasarkan seluruh tinjauan penelitian terdahulu yang telah diberikan, susunlah uraian tinjauan pustaka dari masing-masing penelitian dengan ketentuan:
