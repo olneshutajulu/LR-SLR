@@ -45,4 +45,8 @@ Ubah uraian tersebut menjadi bagan poin-poin kerangka berpikir yang mencakup sta
 
 Susunlah tiga pertanyaan penelitian (research question) yang relevan berdasarkan tinjauan literatur yang telah Anda buat sebelumnya. Pertanyaan penelitian tersebut harus memenuhi kaidah penyusunan research question dalam Systematic Literature Review (SLR). Dalam penyusunannya, hilangkan konteks lokus atau lokasi penelitian, dan arahkan fokus sepenuhnya pada analisis terhadap literatur yang ditinjau.
 
+## Tahap 8: Menyusun Jawaban Pertanyaan
+
+Berdasarkan research question yang telah ditetapkan, susunlah jawabannya dengan merujuk pada seluruh referensi yang telah diberikan. Uraian tersebut harus ditulis dalam bahasa Indonesia dengan panjang minimal 3000 kata. Penulisan disusun dalam bentuk paragraf, di mana setiap paragraf terdiri atas sekurang-kurangnya delapan kalimat. Dalam proses penulisan, gunakan seluruh sitasi dan referensi yang telah disediakan, serta tidak diperkenankan menambahkan sitasi atau referensi lain di luar yang telah diberikan.
+
 </details>
