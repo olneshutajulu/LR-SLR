@@ -39,5 +39,6 @@ Berdasarkan seluruh tinjauan terhadap penelitian-penelitian terdahulu yang telah
 Ubah uraian tersebut menjadi bagan poin-poin kerangka berpikir yang mencakup state of the art, research gap, novelty, orisinalitas, serta keterkaitannya dengan penelitian yang saya lakukan. Penyajian harus ditulis dalam format kode Markdown yang ringkas, jelas, dan sederhana, sehingga mudah dipahami dan dapat menggambarkan alur pemikiran penelitian secara sistematis.
 
 [Link mapping](https://markmap.js.org/)
+[Alternatif](https://www.napkin.ai/)
   
 </details>
