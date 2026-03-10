@@ -35,10 +35,14 @@ Selanjutnya, dari keseluruhan tinjauan penelitian terdahulu tersebut, lakukan si
 
 Berdasarkan seluruh tinjauan terhadap penelitian-penelitian terdahulu yang telah disajikan, lakukan sintesis untuk merumuskan dan menjelaskan state of the art, research gap, novelty, serta orisinalitas penelitian, sekaligus menunjukkan keterkaitannya dengan penelitian yang sedang saya lakukan. Uraian tersebut harus disusun dalam bahasa Indonesia dengan panjang minimal 3000 kata. Penulisan harus berbentuk paragraf, di mana setiap paragraf terdiri atas minimal delapan kalimat. Dalam penyusunannya, gunakan seluruh sitasi dan referensi yang telah saya berikan sebelumnya, tanpa menambahkan sitasi maupun referensi baru di luar yang sudah tersedia.
 
-## Mapping dengan Markdown
+## Tahap 6 Mapping dengan Markdown
 Ubah uraian tersebut menjadi bagan poin-poin kerangka berpikir yang mencakup state of the art, research gap, novelty, orisinalitas, serta keterkaitannya dengan penelitian yang saya lakukan. Penyajian harus ditulis dalam format kode Markdown yang ringkas, jelas, dan sederhana, sehingga mudah dipahami dan dapat menggambarkan alur pemikiran penelitian secara sistematis.
 
 [Link mapping](https://markmap.js.org/)
 [Alternatif](https://www.napkin.ai/)
-  
+
+## Tahap 7: Buat Pertanyaan Penelitian (Research Quetion
+
+Susunlah tiga pertanyaan penelitian (research question) yang relevan berdasarkan tinjauan literatur yang telah Anda buat sebelumnya. Pertanyaan penelitian tersebut harus memenuhi kaidah penyusunan research question dalam Systematic Literature Review (SLR). Dalam penyusunannya, hilangkan konteks lokus atau lokasi penelitian, dan arahkan fokus sepenuhnya pada analisis terhadap literatur yang ditinjau.
+
 </details>
