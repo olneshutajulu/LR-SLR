@@ -30,5 +30,9 @@ Selanjutnya, dari keseluruhan tinjauan penelitian terdahulu tersebut, lakukan si
 - Terdiri dari minimal 8 kalimat per paragraf
 - Menggunakan seluruh sitasi dan referensi yang telah saya berikan
 - Tidak menambahkan sitasi atau referensi baru
+
+## Tahap 5: Gabungkan antara narasi dengan tabel review
+
+Berdasarkan seluruh tinjauan terhadap penelitian-penelitian terdahulu yang telah disajikan, lakukan sintesis untuk merumuskan dan menjelaskan state of the art, research gap, novelty, serta orisinalitas penelitian, sekaligus menunjukkan keterkaitannya dengan penelitian yang sedang saya lakukan. Uraian tersebut harus disusun dalam bahasa Indonesia dengan panjang minimal 3000 kata. Penulisan harus berbentuk paragraf, di mana setiap paragraf terdiri atas minimal delapan kalimat. Dalam penyusunannya, gunakan seluruh sitasi dan referensi yang telah saya berikan sebelumnya, tanpa menambahkan sitasi maupun referensi baru di luar yang sudah tersedia.
   
 </details>
