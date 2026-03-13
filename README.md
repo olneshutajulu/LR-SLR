@@ -249,5 +249,16 @@ Orisinalitas: sistem konverter daya resilien & adaptif
 ↓  
 Kontribusi nyata untuk renewable energy microgrids
 
+</details>
+
+<details>
+<summary>
+
+## Riset Framework (Fault Pada DAB)
+  
+</summary>
+
+<img width="1015" height="478" alt="image" src="https://github.com/user-attachments/assets/24bfc7e2-8b1d-4876-80f9-277f4c24f121" />
+
   
 </details>
