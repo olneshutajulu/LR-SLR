@@ -1,5 +1,19 @@
 [markmap.html](https://github.com/user-attachments/files/25892231/markmap.html)# LR-SLR
 Repositori ini akan membahas bagaimana promt yang baik untuk melakukan LR/SLR dengan bantuan AI seperti chatgpt
+<details>
+  <summary>1.Prompt researh Chatgpt+consesus**  </summary>
+  
+**Buat laporan riset khusus:**
+“Buatkan saya laporan mendetail mengenai kondisi terkini CRISPR base editing untuk penyakit anemia sel sabit (sickle cell disease). Sertakan tabel perbandingan metode, linimasa tonggak penting uji klinis, dan bagian mengenai pertanyaan-pertanyaan terbuka yang masih belum terjawab. Cantumkan sitasi untuk setiap klaim.”
+
+**Temukan sitasi pendukung untuk tulisan Anda sendiri:**
+“Temukan artikel peer-reviewed yang mendukung setiap klaim yang saya buat di sini. Tandai klaim yang memiliki dukungan lemah atau yang bertentangan dengan literatur terbaru.”
+
+**Perjelas arah penelitian melalui percakapan:**
+“Saya tertarik pada hubungan antara mikrobioma usus dan depresi, tetapi saya belum yakin harus fokus ke bagian mana. Kumpulkan literatur terbaru, lalu bantu saya menelusuri 3–4 sub-pertanyaan yang saat ini paling aktif diteliti di bidang tersebut.”
+    
+</details>
+
 
 <details>
 <summary> Promt Chat GPT</summary>
